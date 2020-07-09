@@ -11,6 +11,7 @@
                 <h1>This comment is from Local Feature Branch</h1>
                 <h2>This comment is from Local Branch</h2>
                 <h1>This Comment is from Remote GIT</h1>
+                <h1>This Comment is from Dev2 Branch i.e. Feature 2</h1>
                     <form method="POST" action="{{ route('login') }}">
                         @csrf
                         <div class="form-group row">
