@@ -8,6 +8,7 @@
                 <div class="card-header">{{ __('Login') }}</div>
 
                 <div class="card-body">
+                <h2>This comment is from Local Branch</h2>
                     <form method="POST" action="{{ route('login') }}">
                         @csrf
                         <div class="form-group row">
